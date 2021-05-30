@@ -1,0 +1,15 @@
+D:\My labs\C#\Reflector\bin\Debug\Reflector.exe.config
+D:\My labs\C#\Reflector\bin\Debug\Reflector.exe
+D:\My labs\C#\Reflector\bin\Debug\Reflector.pdb
+D:\My labs\C#\Reflector\obj\Debug\Reflector.csprojAssemblyReference.cache
+D:\My labs\C#\Reflector\obj\Debug\MainWindow.g.cs
+D:\My labs\C#\Reflector\obj\Debug\App.g.cs
+D:\My labs\C#\Reflector\obj\Debug\Reflector_MarkupCompile.cache
+D:\My labs\C#\Reflector\obj\Debug\Reflector_MarkupCompile.lref
+D:\My labs\C#\Reflector\obj\Debug\MainWindow.baml
+D:\My labs\C#\Reflector\obj\Debug\Reflector.g.resources
+D:\My labs\C#\Reflector\obj\Debug\Reflector.Properties.Resources.resources
+D:\My labs\C#\Reflector\obj\Debug\Reflector.csproj.GenerateResource.cache
+D:\My labs\C#\Reflector\obj\Debug\Reflector.csproj.CoreCompileInputs.cache
+D:\My labs\C#\Reflector\obj\Debug\Reflector.exe
+D:\My labs\C#\Reflector\obj\Debug\Reflector.pdb
